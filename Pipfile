@@ -4,10 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+notebook = "*"
 pandas = "*"
 python-dotenv = "*"
 requests = "*"
 tenacity = "*"
+
 
 [dev-packages]
 

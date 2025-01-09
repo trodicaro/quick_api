@@ -1,4 +1,4 @@
-### Alternate way of making the api call 
+### Alternate way of making the api call
 _avoids need to install the requests package; a bit more verbose though_
 ```python
 import http.client
